@@ -1,0 +1,8 @@
+Lunching Advanced Greedy Algorithm Methods for searching Dominating Set for given tweeter network
+Loading graph
+Graph loaded: 256491 nodes and 328132 edges
+Finding dominating set (easy question): TOP_EDGE method: 217804 nodes - total time: 72s
+Finding dominating set (easy question): ONEFORTH_OF_TOP_EDGES method: 217803 nodes - total time: 147s
+Finding dominating set (easy question): RANDOM_EDGE method: 219955 nodes - total time: 81s
+Finding dominating set (easy question): ONCE_TOP_ONCE_RANDOM_EDGE method: 218974 nodes - total time: 64s
+Finding dominating set (easy question): TOP_RANDOM_EDGE method: 217718 nodes - total time: 88s

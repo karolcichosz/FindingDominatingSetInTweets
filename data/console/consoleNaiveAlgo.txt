@@ -1,0 +1,4 @@
+Graph loaded: 256491 nodes and 328132 edges
+Finding dominating set (easy question): NAIVE algorithm: 220780 nodes - total time: 30s
+Printing result to: data/results/resultNaiveAlgo.txt file
+Result placed in data/results/resultNaiveAlgo.txt file: 632s
